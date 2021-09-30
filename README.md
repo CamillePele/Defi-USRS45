@@ -1,8 +1,10 @@
 # Défi USSR45
 ## Credits
-PELET Camille 	Co-développeur
-PINEDA Joris 	Co-développeur
-DIDIER Mathias 	Co-développeur
+* PELÉ Camille 	Co-développeur
+* PINEDA Joris 	Co-développeur
+* DIDIER Mathias 	Co-développeur
+
+[Vidéo de présentation](https://youtu.be/Vl5uPrQIdXE)
 
 ## Principe du jeu
 Jeu en console (ligne de commande)
